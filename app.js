@@ -6,7 +6,7 @@ console.log('hola sena cba'.red);
 
 console.log('ya lo sabe'.blue);
 
-console.log('buenas tardes'.red);
+console.log('buenas tardes GENTE'.red);
 }
 
 main();
