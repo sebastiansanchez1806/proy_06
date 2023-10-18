@@ -2,11 +2,11 @@ require('colors');
 
 const main = async() => {
     console.clear()
-console.log('hola sena cba'.red);
+console.log('hola sena cba'.yellow);
 
-console.log('ya lo sabe'.blue);
+console.log('como es'.blue);
 
-console.log('buenas tardes GENTE'.red);
+console.log('como seria'.red);
 }
 
 main();
